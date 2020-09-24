@@ -1,0 +1,39 @@
+body{
+    
+}
+
+nav ul li{
+    display: inline;
+    list-style-type: none;
+    padding: 0 10px;
+}
+
+.tab-list ul li{
+    display: inline;
+    list-style-type: none;
+    padding: 0 10px;
+}
+
+    .tab-list ul li a{
+        text-decoration: none;
+        color: #503396;
+    }
+
+    .tab-list ul li a:visited{
+        text-decoration: none;
+        color: #503396;
+    }
+
+footer ul.site-list li{
+    display: inline;
+    list-style-type: none;
+    padding: 0 10px;
+}
+    footer ul.site-list li a{
+        text-decoration: none;
+    }
+
+    .tab-list ul li a:visited{
+        text-decoration: none;
+        color: black;
+    }
